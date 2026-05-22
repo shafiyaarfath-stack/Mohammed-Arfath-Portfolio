@@ -209,7 +209,7 @@ body {
 
 .home-content h1 {
     font-family: var(--font-display);
-    font-size: clamp(52px, 7vw, 86px);
+    font-size: clamp(42px, 6vw, 76px);
     font-weight: 800;
     line-height: 1;
     letter-spacing: -0.03em;
